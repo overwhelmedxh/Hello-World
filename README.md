@@ -1,2 +1,6 @@
 # Hello-World
-Beginner GitHub
+Beginner GitHub.
+
+I am new to GitHub today. 
+
+Trying to learn more about it.
